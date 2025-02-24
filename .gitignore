@@ -1,0 +1,9 @@
+# Ignorar diretório de dados do MySQL (dados persistentes)
+dados_mysql/
+
+# Ignorar arquivos temporários e logs
+*.log
+*.tmp
+
+# Ignorar arquivos de configuração de ambiente
+.env
